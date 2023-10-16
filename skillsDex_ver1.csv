@@ -1,0 +1,10 @@
+index,Name,Attribute_Affected,Value_range
+0,Tackle,HP,"-1, -10"
+1,Scratch,HP,"-1, -10"
+2,Bite,HP,"-5, -15"
+3,Acid,HP,"-5, -15"
+4,Slam,HP,"-1, -10"
+5,Warm up,Attack,"1, 5"
+6,Tense up,Defense,"1, 5"
+7,Nerve strike,Attack,"-1, -5"
+8,Bone crush,Defense,"-1, -5"
